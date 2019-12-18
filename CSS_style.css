@@ -18,12 +18,12 @@ body{
 
 
 footer{
-    background-color: rgba(224, 45, 33, 0.74);
+    background-color: rgba(216, 87, 78, 0.884);
     text-align: center;
 }
 
 div.jumbotron{
-    background-color: rgb(236, 207, 207);
+    background-color: rgba(216, 87,78, 0.884);
 }
     
     /* Styles the lightbox, removes it from sight and adds the fade-in transition */
